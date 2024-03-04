@@ -1,0 +1,12 @@
+CATALOG:
+    SPLIT_SEED: 10
+DATASETS:
+  TRAIN: cub_concept_warmup_support_train
+  VAL: cub_concept_full_test
+  TEST: cub_concept_full_test
+SOLVER:
+  NAME: constant
+TEMPLATE:
+  - box
+  - cub
+  - pretrain

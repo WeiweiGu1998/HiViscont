@@ -1,0 +1,25 @@
+CATALOG:
+    SPLIT_SEED: 13
+DATASETS:
+    TEST: cub_concept_full_test
+    TRAIN: cub_fewshot_hierarchy_train
+    VAL: cub_fewshot_hierarchy_val
+MODEL:
+    META_ARCHITECTURE: fewshot_hierarchy
+    NAME: falcon_graphical
+TEMPLATE:
+    - meta
+    - cub
+    - box
+SOLVER:
+  NAME: cooldown
+  MAX_ITER: 10000
+  COOLDOWN_FACTOR: 0.1
+  COOLDOWN_ROUND: 25
+  BASE_LR: 0.001
+  WARMUP_FACTOR: 1.0
+  CHECKPOINT_ROUND: 10
+  VALIDATION_ROUND: 10
+  MAX_ROUND: 100
+WEIGHT:
+    FILE: output/cub_support_box_13/checkpoints/model_0050000.pth

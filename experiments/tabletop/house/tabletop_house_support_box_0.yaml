@@ -1,0 +1,24 @@
+RESET_BOX: True
+CATALOG:
+    SPLIT_SEED: 0
+DATASETS:
+  TRAIN: tabletop_concept_support_train
+  VAL: tabletop_concept_support_test
+  TEST: tabletop_concept_full_test
+  DOMAIN: House
+MODEL:
+  FEATURE_EXTRACTOR:
+    FREEZE: False
+SOLVER:
+  NAME: constant
+  MAX_ITER: 1000
+  BASE_LR: 0.0001
+  BATCH_SIZE: 10
+  VALIDATION_PERIOD: 1000
+  WARMUP_ITER: 1000
+TEMPLATE:
+  - box
+  - tabletop_house
+  - pretrain
+WEIGHT:
+    FILE: output/tabletop_house_warmup_box_0/checkpoints/model_0005000.pth

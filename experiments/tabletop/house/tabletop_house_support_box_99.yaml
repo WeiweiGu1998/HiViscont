@@ -1,0 +1,13 @@
+CATALOG:
+    SPLIT_SEED: 99
+DATASETS:
+  TRAIN: tabletop_concept_support_train
+  VAL: tabletop_concept_support_val
+  TEST: tabletop_concept_support_test
+  DOMAIN: House
+SOLVER:
+  NAME: constant
+TEMPLATE:
+  - box
+  - tabletop_house
+  - pretrain

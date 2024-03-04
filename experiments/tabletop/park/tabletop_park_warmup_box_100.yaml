@@ -1,0 +1,18 @@
+CATALOG:
+    SPLIT_SEED: 100
+DATASETS:
+  TRAIN: tabletop_concept_warmup_support_train
+  VAL: tabletop_concept_full_test
+  TEST: tabletop_concept_full_test
+  DOMAIN: Park
+SOLVER:
+  NAME: constant
+  MAX_ITER: 5000
+  BASE_LR: 0.0001
+  BATCH_SIZE: 10
+  VALIDATION_PERIOD: 1000
+  WARMUP_ITER: 1000
+TEMPLATE:
+  - box
+  - tabletop_park
+  - pretrain

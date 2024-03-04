@@ -1,0 +1,14 @@
+CATALOG:
+    SHOT_K: 0
+DATASETS:
+    TEST: cub_zeroshot_test
+    TRAIN: cub_zeroshot_train
+    VAL: cub_zeroshot_val
+MODEL:
+    NAME: graphical
+TEMPLATE:
+- meta
+- cub
+- box
+WEIGHT:
+    FILE: output/cub_support_box/checkpoints/model_0050000.pth

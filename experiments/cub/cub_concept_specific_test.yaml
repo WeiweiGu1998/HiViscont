@@ -1,0 +1,10 @@
+DATASETS:
+  TRAIN: cub_concept_specific_train
+  VAL: cub_concept_specific_train
+  TEST: cub_concept_specific_train
+TEMPLATE:
+  - box
+  - cub
+  - pretrain
+WEIGHT:
+    FILE: output/cub_fewshot_hierarchy_box/checkpoints/model_9999999.pth

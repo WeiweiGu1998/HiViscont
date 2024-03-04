@@ -1,0 +1,15 @@
+RESET_BOX: True
+CATALOG:
+    SPLIT_SEED: 13
+DATASETS:
+  TRAIN: cub_concept_support_train
+  VAL: cub_concept_support_val
+  TEST: cub_concept_support_test
+SOLVER:
+  NAME: constant
+TEMPLATE:
+  - box
+  - cub
+  - pretrain
+WEIGHT:
+    FILE: output/cub_warmup_box_13/checkpoints/model_0050000.pth

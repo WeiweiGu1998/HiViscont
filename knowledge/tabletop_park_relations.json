@@ -1,0 +1,372 @@
+{
+    "bear": [
+        {
+            "relation_type": "parent",
+            "related_concept": "land_animal"
+        },
+        {
+            "relation_type": "grandparent",
+            "related_concept": "animal"
+        },
+        {
+            "relation_type": "great_grandparent",
+            "related_concept": "living_thing"
+        }
+    ],
+    "blue_flora": [
+        {
+            "relation_type": "parent",
+            "related_concept": "plant"
+        },
+        {
+            "relation_type": "grandparent",
+            "related_concept": "living_thing"
+        }
+    ],
+    "blue_short_rectangular_block": [
+        {
+            "relation_type": "parent",
+            "related_concept": "block"
+        }
+    ],
+    "cow": [
+        {
+            "relation_type": "parent",
+            "related_concept": "land_animal"
+        },
+        {
+            "relation_type": "grandparent",
+            "related_concept": "animal"
+        },
+        {
+            "relation_type": "great_grandparent",
+            "related_concept": "living_thing"
+        }
+    ],
+    "dolphin": [
+        {
+            "relation_type": "parent",
+            "related_concept": "ocean_animal"
+        },
+        {
+            "relation_type": "grandparent",
+            "related_concept": "animal"
+        },
+        {
+            "relation_type": "great_grandparent",
+            "related_concept": "living_thing"
+        }
+    ],
+    "elephant": [
+        {
+            "relation_type": "parent",
+            "related_concept": "land_animal"
+        },
+        {
+            "relation_type": "grandparent",
+            "related_concept": "animal"
+        },
+        {
+            "relation_type": "great_grandparent",
+            "related_concept": "living_thing"
+        }
+    ],
+    "giraffe": [
+        {
+            "relation_type": "parent",
+            "related_concept": "land_animal"
+        },
+        {
+            "relation_type": "grandparent",
+            "related_concept": "animal"
+        },
+        {
+            "relation_type": "great_grandparent",
+            "related_concept": "living_thing"
+        }
+    ],
+    "gorilla": [
+        {
+            "relation_type": "parent",
+            "related_concept": "land_animal"
+        },
+        {
+            "relation_type": "grandparent",
+            "related_concept": "animal"
+        },
+        {
+            "relation_type": "great_grandparent",
+            "related_concept": "living_thing"
+        }
+    ],
+    "green_flora": [
+        {
+            "relation_type": "parent",
+            "related_concept": "plant"
+        },
+        {
+            "relation_type": "grandparent",
+            "related_concept": "living_thing"
+        }
+    ],
+    "green_short_rectangular_block": [
+        {
+            "relation_type": "parent",
+            "related_concept": "block"
+        }
+    ],
+    "hammerhead": [
+        {
+            "relation_type": "parent",
+            "related_concept": "ocean_animal"
+        },
+        {
+            "relation_type": "grandparent",
+            "related_concept": "animal"
+        },
+        {
+            "relation_type": "great_grandparent",
+            "related_concept": "living_thing"
+        }
+    ],
+    "hippo": [
+        {
+            "relation_type": "parent",
+            "related_concept": "land_animal"
+        },
+        {
+            "relation_type": "grandparent",
+            "related_concept": "animal"
+        },
+        {
+            "relation_type": "great_grandparent",
+            "related_concept": "living_thing"
+        }
+    ],
+    "horse": [
+        {
+            "relation_type": "parent",
+            "related_concept": "land_animal"
+        },
+        {
+            "relation_type": "grandparent",
+            "related_concept": "animal"
+        },
+        {
+            "relation_type": "great_grandparent",
+            "related_concept": "living_thing"
+        }
+    ],
+    "leopard": [
+        {
+            "relation_type": "parent",
+            "related_concept": "land_animal"
+        },
+        {
+            "relation_type": "grandparent",
+            "related_concept": "animal"
+        },
+        {
+            "relation_type": "great_grandparent",
+            "related_concept": "living_thing"
+        }
+    ],
+    "lion": [
+        {
+            "relation_type": "parent",
+            "related_concept": "land_animal"
+        },
+        {
+            "relation_type": "grandparent",
+            "related_concept": "animal"
+        },
+        {
+            "relation_type": "great_grandparent",
+            "related_concept": "living_thing"
+        }
+    ],
+    "orange_short_rectangular_block": [
+        {
+            "relation_type": "parent",
+            "related_concept": "block"
+        }
+    ],
+    "pig": [
+        {
+            "relation_type": "parent",
+            "related_concept": "land_animal"
+        },
+        {
+            "relation_type": "grandparent",
+            "related_concept": "animal"
+        },
+        {
+            "relation_type": "great_grandparent",
+            "related_concept": "living_thing"
+        }
+    ],
+    "red_short_rectangular_block": [
+        {
+            "relation_type": "parent",
+            "related_concept": "block"
+        }
+    ],
+    "rhino": [
+        {
+            "relation_type": "parent",
+            "related_concept": "land_animal"
+        },
+        {
+            "relation_type": "grandparent",
+            "related_concept": "animal"
+        },
+        {
+            "relation_type": "great_grandparent",
+            "related_concept": "living_thing"
+        }
+    ],
+    "seahorse": [
+        {
+            "relation_type": "parent",
+            "related_concept": "ocean_animal"
+        },
+        {
+            "relation_type": "grandparent",
+            "related_concept": "animal"
+        },
+        {
+            "relation_type": "great_grandparent",
+            "related_concept": "living_thing"
+        }
+    ],
+    "seal": [
+        {
+            "relation_type": "parent",
+            "related_concept": "ocean_animal"
+        },
+        {
+            "relation_type": "grandparent",
+            "related_concept": "animal"
+        },
+        {
+            "relation_type": "great_grandparent",
+            "related_concept": "living_thing"
+        }
+    ],
+    "shark": [
+        {
+            "relation_type": "parent",
+            "related_concept": "ocean_animal"
+        },
+        {
+            "relation_type": "grandparent",
+            "related_concept": "animal"
+        },
+        {
+            "relation_type": "great_grandparent",
+            "related_concept": "living_thing"
+        }
+    ],
+    "sheep": [
+        {
+            "relation_type": "parent",
+            "related_concept": "land_animal"
+        },
+        {
+            "relation_type": "grandparent",
+            "related_concept": "animal"
+        },
+        {
+            "relation_type": "great_grandparent",
+            "related_concept": "living_thing"
+        }
+    ],
+    "tiger": [
+        {
+            "relation_type": "parent",
+            "related_concept": "land_animal"
+        },
+        {
+            "relation_type": "grandparent",
+            "related_concept": "animal"
+        },
+        {
+            "relation_type": "great_grandparent",
+            "related_concept": "living_thing"
+        }
+    ],
+    "whale": [
+        {
+            "relation_type": "parent",
+            "related_concept": "ocean_animal"
+        },
+        {
+            "relation_type": "grandparent",
+            "related_concept": "animal"
+        },
+        {
+            "relation_type": "great_grandparent",
+            "related_concept": "living_thing"
+        }
+    ],
+    "wood_short_rectangular_block": [
+        {
+            "relation_type": "parent",
+            "related_concept": "block"
+        }
+    ],
+    "yellow_short_rectangular_block": [
+        {
+            "relation_type": "parent",
+            "related_concept": "block"
+        }
+    ],
+    "zebra": [
+        {
+            "relation_type": "parent",
+            "related_concept": "land_animal"
+        },
+        {
+            "relation_type": "grandparent",
+            "related_concept": "animal"
+        },
+        {
+            "relation_type": "great_grandparent",
+            "related_concept": "living_thing"
+        }
+    ],
+    "land_animal": [
+        {
+            "relation_type": "parent",
+            "related_concept": "animal"
+        },
+        {
+            "relation_type": "grandparent",
+            "related_concept": "living_thing"
+        }
+    ],
+    "ocean_animal": [
+        {
+            "relation_type": "parent",
+            "related_concept": "animal"
+        },
+        {
+            "relation_type": "grandparent",
+            "related_concept": "living_thing"
+        }
+    ],
+    "animal": [
+        {
+            "relation_type": "parent",
+            "related_concept": "living_thing"
+        }
+    ],
+    "plant": [
+        {
+            "relation_type": "parent",
+            "related_concept": "living_thing"
+        }
+    ],
+    "block": [],
+    "living_thing": []
+}

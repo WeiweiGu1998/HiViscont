@@ -1,0 +1,321 @@
+{
+    "blue_curve_block": [
+        {
+            "relation_type": "has_color",
+            "related_concept": "blue"
+        },
+        {
+            "relation_type": "has_affordance",
+            "related_concept": "sheltering"
+        }
+    ],
+    "blue_long_rectangular_tile": [
+        {
+            "relation_type": "has_color",
+            "related_concept": "blue"
+        },
+        {
+            "relation_type": "has_affordance",
+            "related_concept": "supporting"
+        }
+    ],
+    "blue_short_rectangular_block": [
+        {
+            "relation_type": "has_color",
+            "related_concept": "blue"
+        },
+        {
+            "relation_type": "has_affordance",
+            "related_concept": "supporting"
+        }
+    ],
+    "blue_short_rectangular_tile": [
+        {
+            "relation_type": "has_color",
+            "related_concept": "blue"
+        },
+        {
+            "relation_type": "has_affordance",
+            "related_concept": "supporting"
+        }
+    ],
+    "blue_square_block": [
+        {
+            "relation_type": "has_color",
+            "related_concept": "blue"
+        },
+        {
+            "relation_type": "has_affordance",
+            "related_concept": "flooring"
+        }
+    ],
+    "blue_square_tile": [
+        {
+            "relation_type": "has_color",
+            "related_concept": "blue"
+        },
+        {
+            "relation_type": "has_affordance",
+            "related_concept": "flooring"
+        }
+    ],
+    "green_curve_block": [
+        {
+            "relation_type": "has_color",
+            "related_concept": "green"
+        },
+        {
+            "relation_type": "has_affordance",
+            "related_concept": "sheltering"
+        }
+    ],
+    "green_short_rectangular_block": [
+        {
+            "relation_type": "has_color",
+            "related_concept": "green"
+        },
+        {
+            "relation_type": "has_affordance",
+            "related_concept": "supporting"
+        }
+    ],
+    "green_short_rectangular_tile": [
+        {
+            "relation_type": "has_color",
+            "related_concept": "green"
+        },
+        {
+            "relation_type": "has_affordance",
+            "related_concept": "supporting"
+        }
+    ],
+    "green_square_block": [
+        {
+            "relation_type": "has_color",
+            "related_concept": "green"
+        },
+        {
+            "relation_type": "has_affordance",
+            "related_concept": "flooring"
+        }
+    ],
+    "green_square_tile": [
+        {
+            "relation_type": "has_color",
+            "related_concept": "green"
+        },
+        {
+            "relation_type": "has_affordance",
+            "related_concept": "flooring"
+        }
+    ],
+    "orange_curve_block": [
+        {
+            "relation_type": "has_color",
+            "related_concept": "orange"
+        },
+        {
+            "relation_type": "has_affordance",
+            "related_concept": "sheltering"
+        }
+    ],
+    "orange_short_rectangular_block": [
+        {
+            "relation_type": "has_color",
+            "related_concept": "orange"
+        },
+        {
+            "relation_type": "has_affordance",
+            "related_concept": "supporting"
+        }
+    ],
+    "orange_short_rectangular_tile": [
+        {
+            "relation_type": "has_color",
+            "related_concept": "orange"
+        },
+        {
+            "relation_type": "has_affordance",
+            "related_concept": "supporting"
+        }
+    ],
+    "orange_square_block": [
+        {
+            "relation_type": "has_color",
+            "related_concept": "orange"
+        },
+        {
+            "relation_type": "has_affordance",
+            "related_concept": "flooring"
+        }
+    ],
+    "orange_square_tile": [
+        {
+            "relation_type": "has_color",
+            "related_concept": "orange"
+        },
+        {
+            "relation_type": "has_affordance",
+            "related_concept": "flooring"
+        }
+    ],
+    "red_long_rectangular_tile": [
+        {
+            "relation_type": "has_color",
+            "related_concept": "red"
+        },
+        {
+            "relation_type": "has_affordance",
+            "related_concept": "supporting"
+        }
+    ],
+    "red_short_rectangular_block": [
+        {
+            "relation_type": "has_color",
+            "related_concept": "red"
+        },
+        {
+            "relation_type": "has_affordance",
+            "related_concept": "supporting"
+        }
+    ],
+    "red_short_rectangular_tile": [
+        {
+            "relation_type": "has_color",
+            "related_concept": "red"
+        },
+        {
+            "relation_type": "has_affordance",
+            "related_concept": "supporting"
+        }
+    ],
+    "red_square_block": [
+        {
+            "relation_type": "has_color",
+            "related_concept": "red"
+        },
+        {
+            "relation_type": "has_affordance",
+            "related_concept": "flooring"
+        }
+    ],
+    "red_square_tile": [
+        {
+            "relation_type": "has_color",
+            "related_concept": "red"
+        },
+        {
+            "relation_type": "has_affordance",
+            "related_concept": "flooring"
+        }
+    ],
+    "wood_long_rectangular_tile": [
+        {
+            "relation_type": "has_color",
+            "related_concept": "wood"
+        },
+        {
+            "relation_type": "has_affordance",
+            "related_concept": "supporting"
+        }
+    ],
+    "wood_short_rectangular_block": [
+        {
+            "relation_type": "has_color",
+            "related_concept": "wood"
+        },
+        {
+            "relation_type": "has_affordance",
+            "related_concept": "supporting"
+        }
+    ],
+    "wood_short_rectangular_tile": [
+        {
+            "relation_type": "has_color",
+            "related_concept": "wood"
+        },
+        {
+            "relation_type": "has_affordance",
+            "related_concept": "supporting"
+        }
+    ],
+    "wood_square_block": [
+        {
+            "relation_type": "has_color",
+            "related_concept": "wood"
+        },
+        {
+            "relation_type": "has_affordance",
+            "related_concept": "flooring"
+        }
+    ],
+    "wood_square_tile": [
+        {
+            "relation_type": "has_color",
+            "related_concept": "wood"
+        },
+        {
+            "relation_type": "has_affordance",
+            "related_concept": "flooring"
+        }
+    ],
+    "yellow_curve_block": [
+        {
+            "relation_type": "has_color",
+            "related_concept": "yellow"
+        },
+        {
+            "relation_type": "has_affordance",
+            "related_concept": "sheltering"
+        }
+    ],
+    "yellow_short_rectangular_block": [
+        {
+            "relation_type": "has_color",
+            "related_concept": "yellow"
+        },
+        {
+            "relation_type": "has_affordance",
+            "related_concept": "supporting"
+        }
+    ],
+    "yellow_short_rectangular_tile": [
+        {
+            "relation_type": "has_color",
+            "related_concept": "yellow"
+        },
+        {
+            "relation_type": "has_affordance",
+            "related_concept": "supporting"
+        }
+    ],
+    "yellow_square_block": [
+        {
+            "relation_type": "has_color",
+            "related_concept": "yellow"
+        },
+        {
+            "relation_type": "has_affordance",
+            "related_concept": "flooring"
+        }
+    ],
+    "yellow_square_tile": [
+        {
+            "relation_type": "has_color",
+            "related_concept": "yellow"
+        },
+        {
+            "relation_type": "has_affordance",
+            "related_concept": "flooring"
+        }
+    ],
+    "flooring": [],
+    "sheltering": [],
+    "supporting": [],
+    "blue": [],
+    "green": [],
+    "orange": [],
+    "red": [],
+    "wood": [],
+    "yellow": []
+}

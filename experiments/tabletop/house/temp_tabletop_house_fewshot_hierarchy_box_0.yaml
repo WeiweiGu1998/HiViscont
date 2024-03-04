@@ -1,0 +1,18 @@
+DATASETS:
+    TEST: tabletop_fewshot_test
+    TRAIN: tabletop_fewshot_train
+    VAL: tabletop_fewshot_val
+    DOMAIN: House
+MODEL:
+    META_ARCHITECTURE: fewshot_hierarchy
+    NAME: hierarchical_graphical
+TEMPLATE:
+    - meta
+    - tabletop_house
+    - box
+SOLVER:
+  MAX_ITER: 10000
+  VALIDATION_ROUND: 80
+  CHECKPOINT_ROUND: 80
+WEIGHT:
+    FILE: output/tabletop_house_support_box/checkpoints/model_0050000.pth

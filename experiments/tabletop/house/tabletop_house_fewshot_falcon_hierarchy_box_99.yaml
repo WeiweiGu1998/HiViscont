@@ -1,0 +1,26 @@
+CATALOG:
+    SPLIT_SEED: 99
+DATASETS:
+    TEST: tabletop_concept_full_test
+    TRAIN: tabletop_fewshot_train
+    VAL: tabletop_fewshot_val
+    DOMAIN: House
+MODEL:
+    META_ARCHITECTURE: fewshot_hierarchy
+    NAME: falcon_graphical
+TEMPLATE:
+    - meta
+    - tabletop_house
+    - box
+SOLVER:
+  NAME: cooldown
+  MAX_ITER: 10000
+  COOLDOWN_FACTOR: 0.1
+  COOLDOWN_ROUND: 25
+  BASE_LR: 0.001
+  WARMUP_FACTOR: 1.0
+  CHECKPOINT_ROUND: 10
+  VALIDATION_ROUND: 10
+  MAX_ROUND: 100
+WEIGHT:
+    FILE: output/tabletop_house_support_box_99/checkpoints/model_0050000.pth
